@@ -1,0 +1,20 @@
+img {
+  height: 200px;
+}
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+.child {
+  margin: 10px 20px;
+}
+.hello {
+  width: 400px;
+  height: 400px;
+  color: white;
+  background: tomato;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
